@@ -15,7 +15,7 @@
 	  <version>4.1.6.RELEASE</version>
 	</dependency>
 	
-	<!-- 添加AOP支持 -->
+	<!-- 20170107 添加AOP支持 -->
 	<dependency>
 	  <groupId>org.springframework</groupId>
 	  <artifactId>spring-aop</artifactId>
@@ -33,6 +33,7 @@
 	  <artifactId>aspectjweaver</artifactId>
 	  <version>1.6.11</version>
 	</dependency>
+	<!-- 20170107添加结束 -->  
   </dependencies>
   
   <build>
